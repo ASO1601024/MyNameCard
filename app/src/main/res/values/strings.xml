@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyNameCard</string>
+    <string name="textView">情報工学科　2年</string>
+    <string name="textView2">村瀨裕一郎</string>
+    <string name="textView3">0120-***-***</string>
+    <string name="textView4">1601024</string>
+    <string name="button">ニックネーム</string>
 </resources>
